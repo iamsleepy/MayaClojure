@@ -1,5 +1,7 @@
 # MayaClojure
 
+0.Please make sure you have nuget package management installed.
+
 1.Copy openmayacs.dll to Clojure\bin in your project from your Maya Installation\bin folder.
 
 2.Compile it with VS2012.
